@@ -1,0 +1,10 @@
+56.pjbest.com:443
+56.pjbest.com:80
+mail.pjbest.com:25
+mx.pjbest.com:25
+mx.pjbest.com:443
+mx.pjbest.com:995
+passport.pjbest.com:443
+passport.pjbest.com:80
+uuc.pjbest.com:443
+uuc.pjbest.com:80
